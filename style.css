@@ -29,7 +29,8 @@ nav{
 }
 .logo{
     width: 160px;
-    background-color: #ff004f;
+    background-color: white;
+    mix-blend-mode: color-dodge;    
     }
 nav ul li{
     display: inline-block;
